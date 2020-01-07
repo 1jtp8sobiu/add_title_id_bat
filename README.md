@@ -6,6 +6,6 @@
 2. ur0:shell/db/app.db をPCにコピー
 3. コピーした app.db を add_title_id.bat にドラッグ&ドロップ
 4. app.db をVitaに書き戻す
-5. データベースを再構築するために、ux0:id.dat を開き の"MID:="の行を削除して再起動 
+5. データベースを再構築するために、ux0:id.dat を開き "MID:="の行を削除して再起動 
 
 https://i.imgur.com/SE8Da4H.jpg
