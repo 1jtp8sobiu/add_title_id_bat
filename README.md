@@ -7,4 +7,4 @@
 3. コピーした app.db を add_title_id.bat にドラッグ&ドロップ
 4. app.db をVitaに書き戻し再起動
 
-https://i.imgur.com/SwaQY2J.jpg
+https://i.imgur.com/SE8Da4H.jpg
